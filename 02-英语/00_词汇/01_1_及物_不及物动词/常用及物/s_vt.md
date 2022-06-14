@@ -1,0 +1,20 @@
+## satisfy
+## set
+## share
+## shift
+## solve
+## spend
+## spoil
+## stiumulate
+## strengthen
+## supply
+## support
+## suppress
+## suspend
+## sustain
+## select
+
+## sting
+vt. 叮，螫；刺痛；精神上刺痛；刺激
+vi. 感到剧痛；刺，叮；
+n. 螫伤处
