@@ -22,3 +22,13 @@ adv. 此外, 而且
 She enjoys dancing and, moreover, is good at it.
 她不仅喜欢跳舞，还很擅长。
 ```
+## thereafter
+```
+adv. 此后, 之后, 以后
+
+例句
+
+Thereafter she wrote articles for papers and magazines for a living.
+
+此后她给报纸和杂志撰稿谋生。
+```
