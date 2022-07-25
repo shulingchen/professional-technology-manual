@@ -18,4 +18,13 @@ They spoke in whispers lest they should be heard.
 
 他们低声耳语唯恐被人听见。
 ```
-## 
+## conjunction
+```
+n. （事件）同时（或同地）发生；结合；连接词
+
+例句
+
+The university worked in conjunction with the police, and found the thief of the laptops.
+
+这所大学与警方合作，找到了偷了这些笔记本的人。
+``` 
