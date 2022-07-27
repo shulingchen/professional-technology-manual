@@ -10,7 +10,7 @@
 ## repair
 ## repeat
 ## replace
-## resist
+
 ## resolve
 ## respect
 ## resolve

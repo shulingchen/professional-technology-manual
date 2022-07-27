@@ -9,6 +9,16 @@ n. 常数，恒量
 a constant stream of visitors all day
 整天络绎不绝的游客
 ```
+## perpetual
+```
+adj. 不间断的，持续的；反复的，没完没了的；终身的，永久的
+
+例句
+
+She's tired of their perpetual complaints.
+
+她对他们没完没了的抱怨感到厌倦。
+```
 
 ## context
 ```

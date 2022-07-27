@@ -17,3 +17,13 @@ n. 内部
 You should receive a reply within seven days.
 你会在七天之内收到答复。
 ```
+## afterward
+```
+adv. 后来，以后
+
+例句
+
+We had tea, and afterward we talked for a while.
+
+我们喝了茶，之后又谈了会。
+```
