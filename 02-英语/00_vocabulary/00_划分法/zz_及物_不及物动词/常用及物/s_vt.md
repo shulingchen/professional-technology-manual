@@ -1,7 +1,6 @@
 ## satisfy
 ## set
 ## share
-## shift
 ## solve
 ## spend
 ## spoil
