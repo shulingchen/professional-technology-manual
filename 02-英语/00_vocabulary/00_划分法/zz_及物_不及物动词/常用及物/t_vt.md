@@ -2,7 +2,6 @@
 ## teach
 ## transfer
 ## trigger
-## transform
 ## trigger
 
 ## tempt

@@ -27,4 +27,14 @@ n. （事件）同时（或同地）发生；结合；连接词
 The university worked in conjunction with the police, and found the thief of the laptops.
 
 这所大学与警方合作，找到了偷了这些笔记本的人。
+```
+## nevertheless
+```
+adv. 然而, 不过；仍然
+
+例句
+
+The art gallery is guarded around the clock, but robberies occur nevertheless.
+
+这个画廊被24小时监控着，却还是发生了盗窃事件。
 ``` 
