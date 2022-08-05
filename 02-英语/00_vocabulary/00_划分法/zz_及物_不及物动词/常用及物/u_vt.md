@@ -1,3 +1,0 @@
-## understand
-## undertake
-## utilise
