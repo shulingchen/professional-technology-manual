@@ -18,3 +18,13 @@ Rooms cost 50 per person, per night.
 
 房价每人每晚50英镑。
 ```
+## thereby
+```
+adv. 因此; 由此; 从而
+
+例句
+
+He became a citizen in 2000, thereby gaining the right to vote.
+
+他在2000年成为公民，由此获得了投票权。
+```
