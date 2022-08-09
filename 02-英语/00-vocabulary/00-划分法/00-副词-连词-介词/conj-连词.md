@@ -38,3 +38,13 @@ The art gallery is guarded around the clock, but robberies occur nevertheless.
 
 这个画廊被24小时监控着，却还是发生了盗窃事件。
 ``` 
+## beforehand
+```
+adv. 预先，事先
+
+例句
+
+He arrived at the meeting place beforehand.
+
+他提前到达会面地点。
+```
