@@ -48,3 +48,15 @@ He arrived at the meeting place beforehand.
 
 他提前到达会面地点。
 ```
+## meantime
+```
+n. 其时，其间
+
+adv. 同时；其间
+
+例句
+
+He will be here soon. In the meantime, can you try to relax?
+
+他马上就会到。在此期间，你能试着休息一下吗？
+```
