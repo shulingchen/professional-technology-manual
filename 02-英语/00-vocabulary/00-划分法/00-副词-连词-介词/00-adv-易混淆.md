@@ -32,3 +32,13 @@ Thereafter she wrote articles for papers and magazines for a living.
 
 此后她给报纸和杂志撰稿谋生。
 ```
+## fairly
+```
+adv. 很，非常，颇，相当；实际上；公平地；简直（用以强调令人吃惊或极端的事）
+
+例句
+
+I'm fairly sure that this is the right answer.
+
+我相当肯定这就是正确答案。
+```
