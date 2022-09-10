@@ -60,3 +60,15 @@ He will be here soon. In the meantime, can you try to relax?
 
 他马上就会到。在此期间，你能试着休息一下吗？
 ```
+## alongside
+```
+prep. 同时，共存；与…一起，在…旁边，与…合作
+
+adv. 在一旁
+
+例句
+
+Much of the land alongside the river is below sea level.
+
+沿河的很多土地都在海平面以下。
+```
