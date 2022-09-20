@@ -14,6 +14,16 @@ adv. 因此，由此；从此，从现在起
 The cost of transport is a major expense. Hence factory location is an important consideration.
 运输成本是一大笔支出，因此工厂选址是重要的考虑因素。
 ```
+## consequently
+```
+adv. 因此, 所以
+
+例句
+
+She is always bad-tempered, and consequently has no friends.
+
+她脾气很坏，因此没什么朋友。
+```
 
 ## moreover
 ```
