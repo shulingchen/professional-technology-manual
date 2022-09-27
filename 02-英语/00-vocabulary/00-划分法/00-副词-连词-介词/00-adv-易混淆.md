@@ -32,6 +32,16 @@ adv. 此外, 而且
 She enjoys dancing and, moreover, is good at it.
 她不仅喜欢跳舞，还很擅长。
 ```
+## furthermore
+```
+adv. 而且，此外
+
+例句
+
+The house is beautiful. Furthermore, it's cheap.
+
+这座房子不仅漂亮，而且还便宜。
+```
 ## thereafter
 ```
 adv. 此后, 之后, 以后
