@@ -28,3 +28,13 @@ He became a citizen in 2000, thereby gaining the right to vote.
 
 他在2000年成为公民，由此获得了投票权。
 ```
+## accordingly
+```
+adv. 相应地；因此，所以，照着
+
+例句
+
+A qualified teacher should know the importance of teaching different students accordingly.
+
+一名合格的教师应当懂得因材施教。
+```
