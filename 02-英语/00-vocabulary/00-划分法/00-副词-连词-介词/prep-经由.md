@@ -38,3 +38,13 @@ A qualified teacher should know the importance of teaching different students ac
 
 一名合格的教师应当懂得因材施教。
 ```
+## whilst
+```
+conj. 当…的时候
+
+例句
+
+He was at his happiest whilst playing computer games.
+
+玩电脑游戏时他最开心了。
+```
