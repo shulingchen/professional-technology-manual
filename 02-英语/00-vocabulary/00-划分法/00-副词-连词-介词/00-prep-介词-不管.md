@@ -27,3 +27,14 @@ We had tea, and afterward we talked for a while.
 
 我们喝了茶，之后又谈了会。
 ```
+## till
+```
+conj. 直到…为止, 在…之前
+n. （商店、餐馆等的）现金出纳机; 收银机；(收银机中的) 钱柜
+prep. 直到…为止, 直到…才…, 在…前(不…)
+v. 耕作, 犁地
+
+例句
+a long queue at the till
+收款处的长队
+```

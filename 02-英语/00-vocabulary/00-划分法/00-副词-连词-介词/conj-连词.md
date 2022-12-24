@@ -72,3 +72,15 @@ Much of the land alongside the river is below sea level.
 
 沿河的很多土地都在海平面以下。
 ```
+## perhaps
+```
+adv. 也许, 可能, 大概, 如果
+
+n. 偶然事件, 假定
+
+例句
+
+Perhaps he's forgotten.
+
+也许是他忘掉了。
+```
