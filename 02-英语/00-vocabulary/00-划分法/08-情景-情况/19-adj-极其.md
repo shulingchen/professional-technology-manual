@@ -56,3 +56,13 @@ This task is extremely difficult.
 [trə'mendəslɪ]
 adv. 极大地；极端地；极其；非常
 ```
+## deteriorate
+```
+v. 恶化，（使）变坏，退化
+
+例句
+
+His health has been deteriorating since he got lung cancer.
+
+自从得了肺癌后，他的健康状况日益恶化。
+```
