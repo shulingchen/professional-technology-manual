@@ -6,6 +6,16 @@ It won't be easy, but they'll find a way to resolve the budget issue somehow.
 
 虽然并不容易，但他们总会找到解决预算问题的方法的。
 ```
+## hereby
+```
+adv. 特此, 以此
+
+例句
+
+I hereby declare the World Cup officially open.
+
+我正式宣布世界杯开幕。
+```
 
 ## hence
 ```
